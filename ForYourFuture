@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>For Your Future</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        
+        position: absolute;
+        top: 22%;
+        left: 10%;
+        font-size: 60px;
+        color: #ebf7f6;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#f5a4af
+      }
+
+      a:hover {
+        color: #83afd6;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 70%;
+        display: inline-block;
+        margin-left: 70px;
+        color: #747878
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        font-size: 47px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #ebf7f6;
+        color: #35559c;
+      }
+
+      .experience {
+        font-size:40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #f0f0c7;
+        color: #35559c
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="field.jpeg">
+      <div class="headertext">
+        <h1>For Your Future</h1>
+      </div>
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="up.png"
+      style="position:absolute;
+      width:150px;
+      height:150px;
+      top: -24px;
+      right:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="down.png"
+      style="position:absolute;
+      width:150px;
+      height:150px;
+      top: -24px;
+      left:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="top.png"
+      style="position:absolute;
+      width:150px;
+      height:150px;
+      top: 3540px;
+      right:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="bottom.png"
+      style="position:absolute;
+      width:150px;
+      height:150px;
+      top: 3540px;
+      left:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="one.png"
+      style="position:absolute;
+      width:300px;
+      height:300px;
+      top: 3300px;
+      left:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="twoflip.png"
+      style="position:absolute;
+      width:300px;
+      height:300px;
+      top: 5000px;
+      right:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="1up.png"
+      style="position:absolute;
+      width:100px;
+      height:100px;
+      top: 2330px;
+      left:-12px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="1down.png"
+      style="position:absolute;
+      width:100px;
+      height:100px;
+      top: 2330px;
+      right:-12px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="1up.png"
+      style="position:absolute;
+      width:100px;
+      height:100px;
+      top: 6600px;
+      left:-12px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="1down.png"
+      style="position:absolute;
+      width:100px;
+      height:100px;
+      top: 6600px;
+      right:-12px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="threeflip.png"
+      style="position:absolute;
+      width:300px;
+      height:300px;
+      top: 1600px;
+      right:0px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="two.png"
+      style="position:absolute;
+      width:250px;
+      height:250px;
+      top: -200px;
+      left:-70px;">
+    </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2>What is For Your Future?</h2>
+        <p>Welcome to my mobile website! We're here to help you achieve your personal and professional goals by providing resources on education, workplace, and mental health. Our community is designed to empower and support individuals, no matter where they are on their journey. We offer resources to help with academic pursuits, job searches, career advancement, and mental health. Our goal is to promote inclusivity and diversity, so everyone has access to our resources. Join us and let us help you on your path to success!</p>
+      </div>
+      <div class="aboutText">
+        <center><p>〰〰〰</p></center>
+        <center><h4>Personality tests can help you find a career that suits your strengths, interests, values, and preferences. They can guide you towards careers that align with what you love to do and provide valuable insights into what is meaningful to you. Keep in mind that personality tests are not the only factor to consider when making career decisions, and it's important to reassess your career goals regularly.</h4></center>
+        <center><h4>Please take the following quiz, to decide your pathway.</h4></center>
+        <ul>
+          <a href="https://www.truity.com/test/type-finder-personality-test-new">
+            <center><li></i>Personality Quiz</li></a></center>
+        </ul>
+        <center><p>〰〰〰</p></center>
+      </div>
+    </div>
+    
+    <div class="experience">
+      <font size="+4"><h2>For You</h2></font>
+      <h2>○ ◦ ○ ◦ ○ ◦ ○ ◦</h2>
+
+      <ul>
+        <a href=https://page2.gabrielamuriel2.repl.co>
+          <li></i>Having a Proper Resume ◦</li></a>
+      </ul>
+      <p>Having a proper resume is essential for anyone who is job searching or seeking to advance their
+career. </p>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://page1.gabrielamuriel2.repl.co>
+          <li></i> Finding Internships and Jobs◦</li></a>
+      </ul>
+      <p>Finding internships and jobs early in one's career can have many benefits for individuals looking to develop their careers.  </p>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://page3.gabrielamuriel2.repl.co>
+          <li>Getting Academic Credit for Learning Outside of Classroom</i> ◦</li></a>
+      </ul>
+      <p>Prior learning assessment (PLA) is a process that allows individuals to earn academic credit for
+knowledge and skills they have acquired outside of a traditional classroom setting. </p>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://page4.gabrielamuriel2.repl.co>
+          <li>Maintaining Mental Health</i> ◦</li></a>
+      </ul>
+      <p>Maintaining mental health is crucial for overall well-being and quality of life. </p>
+      <p>〰〰〰</p>
+    
+      </div>
+  </body>
+</html>
