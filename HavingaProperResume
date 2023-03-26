@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>For Your Future</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        
+        position: absolute;
+        top: 22%;
+        left: 10%;
+        font-size: 60px;
+        color: #35559c;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#f5a4af
+      }
+
+      a:hover {
+        color: #83afd6;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 50%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        color: #747878
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        font-size: 47px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #ebf7f6;
+        color: #35559c;
+      }
+
+      .experience {
+        font-size:55px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #f0f0c7;
+        color: #35559c
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="cloud.png">
+      <div class="headertext">
+        <h1>For Your Future</h1>
+      </div>
+    </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2>Having a Proper Resume</h2>
+        <p>Having a proper resume is essential for anyone who is job searching or seeking to advance their career. Here are some benefits of having a proper resume:</p>
+        <center><p>〰〰〰</p></center>
+        <p>
+          A well-crafted resume is crucial in landing a job. It is your first impression to the potential employer and can catch their attention. A good resume also showcases your skills, accomplishments, and work experience, demonstrating how you can benefit the company. </p> 
+        <p>Presenting a properly formatted, error-free resume, you demonstrate professionalism and attention to detail, increasing your chances of getting called in for an interview. A well-organized resume also saves the employer time by making it easy for them to scan your qualifications. </p>
+       <p> Finally, tailoring your resume to the specific job you are applying for shows your interest and commitment to the opportunity. Overall, a proper resume is an essential tool in advancing your career.
+        </p>
+        <center><p>〰〰〰</p></center>
+      </div>
+    </div>
+    
+    <div class="experience">
+      <font size="+4"><h2>Links For You</h2></font>
+      <h2>○ ◦ ○ ◦ ○ ◦ ○ ◦</h2>
+
+      <ul>
+        <a href=https://zety.com/resume-templates-1>
+          <li></i>Zety Free Resume Template ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://resumegenius.com/>
+          <li></i> Create your Resume with Resume Genius ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://www.youtube.com/watch?v=muDFF1Hra5A>
+          <li></i> Four Things You Must Include on Your Resume ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+      
+    
+      </div>
+  </body>
+</html>
