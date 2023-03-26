@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>For Your Future</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        
+        position: absolute;
+        top: 22%;
+        left: 10%;
+        font-size: 60px;
+        color: #35559c;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#f5a4af
+      }
+
+      a:hover {
+        color: #83afd6;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 50%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        color: #747878
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        font-size: 47px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #ebf7f6;
+        color: #35559c;
+      }
+
+      .experience {
+        font-size:55px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #f0f0c7;
+        color: #35559c
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="cloud.png">
+      <div class="headertext">
+        <h1>For Your Future</h1>
+      </div>
+    </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2>Finding Internships and Jobs</h2>
+        <p>Finding internships and jobs early in one's career can have many benefits for individuals looking to develop their careers. Here are some reasons why it is important to find internships and jobs early on:</p>
+        <center><p>〰〰〰</p></center>
+        <p>
+          Early internships and jobs can provide individuals with valuable
+experience in their field of interest. This experience can help individuals develop skills, build
+their resumes, and demonstrate their capabilities to future employers.
+</p> 
+        <p>Internships and jobs can also provide individuals with an
+opportunity to build a professional network of contacts in their industry. These contacts can
+provide mentorship, advice, and potential job leads in the future. </p>
+       <p> Internships and jobs can also help individuals develop
+professional skills such as time management, teamwork, communication, and problem-solving. Allowing them to explore different career paths and gain a better understanding of their interests and strengths.
+        </p>
+        <center><p>〰〰〰</p></center>
+      </div>
+    </div>
+    
+    <div class="experience">
+      <font size="+4"><h2>Links For You</h2></font>
+      <h2>○ ◦ ○ ◦ ○ ◦ ○ ◦</h2>
+
+      <ul>
+        <a href=https://joinhandshake.com/>
+          <li></i>Internships with Handshake ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://www.indeed.com/>
+          <li></i> Job Search with Indeed ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+    
+      </div>
+  </body>
+</html>
