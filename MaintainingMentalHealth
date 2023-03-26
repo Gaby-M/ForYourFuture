@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>For Your Future</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        
+        position: absolute;
+        top: 22%;
+        left: 10%;
+        font-size: 60px;
+        color: #35559c;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#f5a4af
+      }
+
+      a:hover {
+        color: #83afd6;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 50%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        color: #747878
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        font-size: 47px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #ebf7f6;
+        color: #35559c;
+      }
+
+      .experience {
+        font-size:55px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #f0f0c7;
+        color: #35559c
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="cloud.png">
+      <div class="headertext">
+        <h1>For Your Future</h1>
+      </div>
+    </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2>Maintaining Mental Health</h2>
+        <p>Maintaining mental health is crucial for overall well-being and quality of life. Here are some reasons why maintaining mental health is important:</p>
+        <center><p>〰〰〰</p></center>
+        <p>
+          Research has shown that maintaining good mental health can have a positive impact on physical health. This is because mental health conditions, such as depression
+and anxiety, can have negative effects on the immune system and increase the risk of certain
+health conditions.
+</p> 
+        <p>Maintaining good mental health can also enhance productivity, both in the workplace and in personal life. When individuals feel mentally healthy and energized, they are
+more likely to be productive and achieve their goals.</p>
+       <p> Ultimately, maintaining good mental health can improve overall quality
+of life. When individuals feel mentally healthy, they are more likely to experience joy,
+fulfillment, and satisfaction in their personal and professional lives.
+        </p>
+        <center><p>〰〰〰</p></center>
+      </div>
+    </div>
+    
+    <div class="experience">
+      <font size="+4"><h2>Links For You</h2></font>
+      <h2>○ ◦ ○ ◦ ○ ◦ ○ ◦</h2>
+
+      <ul>
+        <a href=https://www.floridahealth.gov/%5C/programs-and-services/prevention/mental-health/index.html>
+          <li></i>Caring for Your Mental Health: ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+
+      <ul>
+        <a href=https://www.floridahealth.gov/programs-and-services/prevention/mental-health/links.html#:~:text=Call%20or%20text%20988%20or,counseling%20and%20mental%20health%20referrals.>
+          <li></i>Florida Mental Health Emergency Numbers: ◦</li></a>
+      </ul>
+      <p>〰〰〰</p>
+    
+      </div>
+  </body>
+</html>
